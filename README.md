@@ -10,9 +10,9 @@
 
 ## Current work
 
-	- :camera: [PhotographerMacros](https://github.com/lyubolp/PhotographerMacros) - A CLI tool that applies filters to images
-	- :keyboard: [CodingProblems](https://github.com/lyubolp/CodingProblems) - Solutions to some coding problems found on the Internet (trying to commit daily here)
-	- :writing_hand: Writing articles on Medium
+- :camera: [PhotographerMacros](https://github.com/lyubolp/PhotographerMacros) - A CLI tool that applies filters to images
+- :keyboard: [CodingProblems](https://github.com/lyubolp/CodingProblems) - Solutions to some coding problems found on the Internet (trying to commit daily here)
+- :writing_hand: Writing articles on Medium
 
 ## Currently learning
 
