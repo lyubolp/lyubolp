@@ -1,16 +1,67 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**lyubolp/lyubolp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Who am I ?
 
-Here are some ideas to get you started:
+​	Hello. My name is **Lyuboslav Karev** (or for shorter - Lyubo). 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+​	Currently working as a **Junior Software Engineer** @ Strypes, Sofia. 
+
+​	Have a bachelor's degree in **Software Engineering** and currently studying for a master's degree in **Information Retrieval and Knowledge Discovery** - both at Sofia University "St. Kliment Ohridski"
+
+## Current work
+
+	- :camera:  [PhotographerMacros](https://github.com/lyubolp/PhotographerMacros) - A CLI tool that applies filters to images
+	- :keyboard:  [CodingProblems](https://github.com/lyubolp/CodingProblems) - Solutions to some coding problems found on the Internet (trying to commit daily here)
+	- :writing_hand:  Writing articles on Medium
+
+## Currently learning
+
+- Machine learning & Data science
+- Image processing
+
+## I’m looking to collaborate on
+
+- Any open source projects
+
+## I'm looking for help with
+
+- The **PhotographerMacros** project
+
+## Ask me about
+
+- :book: Knowledge sharing
+- :camera: Photography
+- :man_teacher: ​Teaching
+
+## How to reach me
+
+- mail: lyubo.karev@gmail.com
+- instagram: https://www.instagram.com/lyubo.karev/ (posting the results of my photography hobby)
+- Medium: https://lkarev.medium.com/
+- Goodreads: https://www.goodreads.com/user/show/138326071-lyuboslav-karev
+
+## Languages & Tools
+
+### Actively using:
+
+- Python
+- Bash/Zsh
+- Linux
+- Jetbrains IDEs, VSCode
+- Github
+
+### Sometimes using:
+
+- Rust, C++
+- AWS
+- Functional programming
+- Writing articles
+
+### Dabbling in:
+
+- Angular
+
+### Want to check out:
+
+- Go, F#, React
+
