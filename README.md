@@ -8,6 +8,14 @@
 
 ​	Have a bachelor's degree in **Software Engineering** and currently studying for a master's degree in **Information Retrieval and Knowledge Discovery** - both at Sofia University "St. Kliment Ohridski"
 
+## How to reach me
+
+- mail: lyubo.karev@gmail.com
+- instagram: https://www.instagram.com/lyubo.karev/ (posting the results of my photography hobby)
+- Medium: https://lkarev.medium.com/
+- Goodreads: https://www.goodreads.com/user/show/138326071-lyuboslav-karev
+- LinkedIn:https://www.linkedin.com/in/lyuboslav-karev-33357715a/
+
 ## Current work
 
 - :camera: [PhotographerMacros](https://github.com/lyubolp/PhotographerMacros) - A CLI tool that applies filters to images
@@ -32,13 +40,6 @@
 - :book: Knowledge sharing
 - :camera: Photography
 - :man_teacher: ​Teaching
-
-## How to reach me
-
-- mail: lyubo.karev@gmail.com
-- instagram: https://www.instagram.com/lyubo.karev/ (posting the results of my photography hobby)
-- Medium: https://lkarev.medium.com/
-- Goodreads: https://www.goodreads.com/user/show/138326071-lyuboslav-karev
 
 ## Languages & Tools
 
