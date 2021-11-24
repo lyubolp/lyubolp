@@ -24,8 +24,8 @@
 
 ## Currently learning
 
-- Machine learning & Data science
-- Image processing
+- Machine learning, Data science & Knowledge discovery
+- Natural language processing
 
 ## I’m looking to collaborate on
 
