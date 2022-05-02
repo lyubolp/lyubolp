@@ -20,20 +20,13 @@
 
 - :camera: [PhotographerMacros](https://github.com/lyubolp/PhotographerMacros) - A CLI tool that applies filters to images
 - :keyboard: [CodingProblems](https://github.com/lyubolp/CodingProblems) - Solutions to some coding problems found on the Internet (trying to commit daily here)
+- 🏁 [Initly](https://github.com/lyubolp/initly) - A CLI tool that has project templates for different project types
 - :writing_hand: Writing articles on Medium
 
 ## Currently learning
 
 - Machine learning, Data science & Knowledge discovery
 - Natural language processing
-
-## I’m looking to collaborate on
-
-- Any open source projects
-
-## I'm looking for help with
-
-- The **PhotographerMacros** project
 
 ## Ask me about
 
@@ -61,8 +54,3 @@
 ### Dabbling in:
 
 - Angular
-
-### Want to check out:
-
-- Go, F#, React
-
