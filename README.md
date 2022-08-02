@@ -4,7 +4,7 @@
 
 ​	Hello. My name is **Lyuboslav Karev** (or for shorter - Lyubo). 
 
-​	Currently working as a **Junior Software Engineer** @ Strypes, Sofia. 
+​	Currently working as a **Software Engineer** @ Strypes, Sofia. 
 
 ​	Have a bachelor's degree in **Software Engineering** and currently studying for a master's degree in **Information Retrieval and Knowledge Discovery** - both at Sofia University "St. Kliment Ohridski"
 
@@ -51,6 +51,3 @@
 - Functional programming
 - Writing articles
 
-### Dabbling in:
-
-- Angular
