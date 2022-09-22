@@ -11,16 +11,13 @@
 ## How to reach me
 
 - mail: lyubo.karev@gmail.com
-- instagram: https://www.instagram.com/lyubo.karev/ (posting the results of my photography hobby)
 - Medium: https://lkarev.medium.com/
-- Goodreads: https://www.goodreads.com/user/show/138326071-lyuboslav-karev
 - LinkedIn:https://www.linkedin.com/in/lyuboslav-karev-33357715a/
 
 ## Current work
 
 - :camera: [PhotographerMacros](https://github.com/lyubolp/PhotographerMacros) - A CLI tool that applies filters to images
 - :keyboard: [CodingProblems](https://github.com/lyubolp/CodingProblems) - Solutions to some coding problems found on the Internet (trying to commit daily here)
-- 🏁 [Initly](https://github.com/lyubolp/initly) - A CLI tool that has project templates for different project types
 - :writing_hand: Writing articles on Medium
 
 ## Currently learning
