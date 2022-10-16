@@ -16,7 +16,7 @@
 
 ## Current work
 
-- :camera: [PhotographerMacros](https://github.com/lyubolp/PhotographerMacros) - A CLI tool that applies filters to images
+- :man_teacher:[Python course @ FMI](https://github.com/fmipython/PythonCourse2022) - 1/3 of the "Programming with Python" course at Sofia University "St. Kliment Ohridski"
 - :keyboard: [CodingProblems](https://github.com/lyubolp/CodingProblems) - Solutions to some coding problems found on the Internet (trying to commit daily here)
 - :writing_hand: Writing articles on Medium
 
