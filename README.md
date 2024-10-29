@@ -2,49 +2,32 @@
 
 ## Who am I ?
 
-​	Hello. My name is **Lyuboslav Karev** (or for shorter - Lyubo). 
+​	Hello. My name is **Lyuboslav Karev** (or, for shorter - Lyubo). 
 
-​	Currently working as a **Software Engineer** @ Strypes, Sofia. 
+​	I work as a **Senior Software Engineer** @ Strypes, Sofia. 
 
-​	Have a bachelor's degree in **Software Engineering** and currently studying for a master's degree in **Information Retrieval and Knowledge Discovery** - both at Sofia University "St. Kliment Ohridski"
+​	I have a bachelor's degree in **Software Engineering** and a master's degree in **Information Retrieval and Knowledge Discovery** - both at Sofia University "St. Kliment Ohridski"
 
 ## How to reach me
 
-- mail: lyubo.karev@gmail.com
-- Medium: https://lkarev.medium.com/
+- Mail: lyubo.karev@gmail.com
+- Blog: [lkarev.hashnode.dev](https://lkarev.hashnode.dev/)
 - LinkedIn:https://www.linkedin.com/in/lyuboslav-karev-33357715a/
 
 ## Current work
 
-- :man_teacher:[Python course @ FMI](https://github.com/fmipython/PythonCourse2022) - 1/3 of the "Programming with Python" course at Sofia University "St. Kliment Ohridski"
-- :keyboard: [CodingProblems](https://github.com/lyubolp/CodingProblems) - Solutions to some coding problems found on the Internet (trying to commit daily here)
-- :writing_hand: Writing articles on Medium
-
-## Currently learning
-
-- Machine learning, Data science & Knowledge discovery
-- Natural language processing
-
-## Ask me about
-
-- :book: Knowledge sharing
-- :camera: Photography
-- :man_teacher: ​Teaching
+- [Python course @ FMI](https://github.com/fmipython/) - Part of the "Programming with Python" course at Sofia University "St. Kliment Ohridski"
+- [slightly-better-cut](https://github.com/lyubolp/slightly-better-cut)
+- [py2uml](https://github.com/lyubolp/py2uml)
+- [My blog](https://lkarev.hashnode.dev/)
 
 ## Languages & Tools
 
 ### Actively using:
-
 - Python
+- Rust
 - Bash/Zsh
 - Linux
-- Jetbrains IDEs, VSCode
+- VSCode
 - Github
-
-### Sometimes using:
-
-- Rust, C++
-- AWS
-- Functional programming
-- Writing articles
 
