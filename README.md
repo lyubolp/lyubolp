@@ -4,7 +4,7 @@
 
 ​	Hello. My name is **Lyuboslav Karev** (or, for shorter - Lyubo). 
 
-​	I work as a **Senior Software Engineer** @ Strypes, Sofia. 
+​	I work as a **AI Engineer** @ SiteGround, Sofia. 
 
 ​	I have a bachelor's degree in **Software Engineering** and a master's degree in **Information Retrieval and Knowledge Discovery** - both at Sofia University "St. Kliment Ohridski"
 
